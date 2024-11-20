@@ -1,9 +1,7 @@
 import sqlite3
-import json
 from flask import (
     Flask,
     jsonify,
-    request
 )
 
 flask_app = Flask(__name__)
