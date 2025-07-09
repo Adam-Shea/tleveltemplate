@@ -9,7 +9,9 @@
 </head>
 
 <body>
-<?php include("components/header.php")?>
+<?php 
+include("components/header.php")
+?>
 </body>
 
 </html>
